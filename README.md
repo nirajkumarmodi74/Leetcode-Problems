@@ -7,12 +7,14 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -35,4 +37,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
