@@ -32,6 +32,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0007-reverse-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0507-perfect-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0507-perfect-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
