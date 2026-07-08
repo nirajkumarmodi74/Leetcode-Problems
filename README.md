@@ -33,6 +33,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0507-perfect-number/) | Easy |
+| [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -52,4 +53,16 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
