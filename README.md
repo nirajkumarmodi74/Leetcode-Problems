@@ -12,6 +12,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Hash Table
@@ -38,6 +39,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0507-perfect-number/) | Easy |
+| [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
@@ -65,6 +67,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -73,6 +76,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
