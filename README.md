@@ -29,6 +29,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -54,6 +55,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -130,4 +132,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
