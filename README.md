@@ -11,6 +11,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0027-remove-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -67,6 +68,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0011-container-with-most-water](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -77,6 +79,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
