@@ -46,6 +46,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
@@ -64,6 +65,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
