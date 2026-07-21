@@ -13,6 +13,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -87,6 +88,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0027-remove-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -100,6 +102,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
