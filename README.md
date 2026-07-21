@@ -40,6 +40,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -52,6 +53,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0168-excel-sheet-column-title](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
@@ -160,6 +162,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
