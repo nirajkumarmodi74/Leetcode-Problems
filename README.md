@@ -9,6 +9,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0001-two-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
@@ -114,6 +115,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
