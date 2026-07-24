@@ -34,6 +34,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
