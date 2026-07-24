@@ -87,6 +87,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -184,6 +185,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
