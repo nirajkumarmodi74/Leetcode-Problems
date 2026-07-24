@@ -1,26 +1,22 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Long first =null, second = null, third = null;
+        long first = Long.MIN_VALUE;
+        long second = Long.MIN_VALUE;
+        long third = Long.MIN_VALUE;
+
 
         for(int num : nums){
-            long x = num;
-
-            if((first != null && x==first) || (second != null && x==second) || (third != null && x==third)){
-                continue;
-            }
-
-            if(first==null || x>first){
+            if(num>first){
                 third = second;
                 second = first;
-                first = x;
-            }else if(second == null || x>second){
+                first = num;
+            }else if(num > second && num != first){
                 third = second;
-                second = x;
-            }else if(third == null || x>third){
-                third = x;
+                second = num;
+            }else if(num > third && num != second && num != first){
+                third = num;
             }
-
         }
-        return third ==null ? first.intValue() : third.intValue();
+        return third == Long.MIN_VALUE? (int)first :(int) third;
     }
 }
