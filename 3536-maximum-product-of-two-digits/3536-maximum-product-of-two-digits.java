@@ -1,22 +1,16 @@
 class Solution {
     public int maxProduct(int n) {
-        int[] arr = new int[10];
-        int temp = n;
-        while(temp>0){
-            int d = temp %10;
-            arr[d]++;
-            temp/=10;
-        }
-        int mul =1;
-        int count = 0;
-        for(int i = 9;i>=0;i--){
-            while(arr[i]>0 && count < 2){
-                mul*=i;
-                arr[i]--;
-                count++;
+        int max1 = 0, max2 = 0;
+        while(n>0){
+            int d = n%10;
+            if(d>max1){
+                max2 = max1;
+                max1 = d;
+            }else if(d > max2){
+                max2 = d;
             }
+            n/=10;
         }
-        System.out.println(mul);
-        return mul;
+        return max1*max2;
     }
 }
