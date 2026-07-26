@@ -1,13 +1,13 @@
 class Solution {
     public boolean canAliceWin(int n) {
         int max = 10;
-        int count = 0;
+        boolean al=true;
         while(n>=max){
-            count++;
             n-=max;
             max--;
+            al = !al;
         }
-        System.out.println(count);
-        return count%2!=0;
+        // System.out.println(count);
+        return !al;
     }
 }
