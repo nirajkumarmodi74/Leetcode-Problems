@@ -23,6 +23,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -86,6 +87,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0367-valid-perfect-square](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0507-perfect-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -122,6 +124,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
