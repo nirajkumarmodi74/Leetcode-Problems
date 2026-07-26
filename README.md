@@ -33,6 +33,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -199,6 +200,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
