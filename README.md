@@ -31,6 +31,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1184-distance-between-bus-stops](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -135,6 +136,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
@@ -175,6 +177,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
