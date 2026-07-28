@@ -77,6 +77,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3174-clear-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3174-clear-digits/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -197,6 +199,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
