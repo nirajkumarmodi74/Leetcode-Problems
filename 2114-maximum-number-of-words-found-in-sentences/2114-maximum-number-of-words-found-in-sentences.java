@@ -3,7 +3,7 @@ class Solution {
         int x = 0;
         for(String sen : sentences){
             // = sen.split("\\s+");
-            x = Math.max(x,sen.split("\\s+").length);
+            x = Math.max(x,sen.split(" ").length);
         }
         return x;
     }
