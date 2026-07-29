@@ -32,6 +32,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -58,6 +59,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 ## String
@@ -106,6 +108,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
@@ -206,6 +209,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
