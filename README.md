@@ -32,6 +32,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -76,6 +77,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0709-to-lower-case](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
