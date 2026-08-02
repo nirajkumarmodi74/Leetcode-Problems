@@ -99,6 +99,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
@@ -267,4 +268,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
