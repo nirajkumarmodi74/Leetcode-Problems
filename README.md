@@ -47,6 +47,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
