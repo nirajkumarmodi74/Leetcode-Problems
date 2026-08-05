@@ -94,6 +94,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3174-clear-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3174-clear-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -243,6 +244,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
