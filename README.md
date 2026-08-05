@@ -97,6 +97,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +248,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3360-stone-removal-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
