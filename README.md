@@ -96,6 +96,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3174-clear-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
