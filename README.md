@@ -12,6 +12,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0033-search-in-rotated-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -186,6 +187,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
@@ -271,6 +273,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## String Matching
