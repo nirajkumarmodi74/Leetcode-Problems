@@ -19,6 +19,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
+| [0189-rotate-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -114,6 +115,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
@@ -145,6 +147,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0088-merge-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
