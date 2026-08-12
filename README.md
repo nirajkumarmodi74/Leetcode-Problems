@@ -46,6 +46,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -67,6 +68,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -251,6 +253,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2810-faulty-keyboard](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2810-faulty-keyboard/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
