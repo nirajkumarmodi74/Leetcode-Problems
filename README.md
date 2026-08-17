@@ -110,6 +110,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3174-clear-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3174-clear-digits/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
@@ -149,6 +150,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -279,6 +281,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -290,6 +293,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -334,4 +338,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 <!---LeetCode Topics End-->
