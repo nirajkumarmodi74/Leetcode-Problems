@@ -84,6 +84,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -115,6 +116,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2810-faulty-keyboard](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3174-clear-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3174-clear-digits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
