@@ -1,0 +1,24 @@
+class Solution {
+    public boolean sumGame(String num) {
+        int n = num.length();
+        int half = n/2;
+        int sum1 = 0;
+        int sum2 = 0;
+        int cnt1 = 0;
+        int cnt2 = 0;
+        for(int i=0;i<half;i++){
+            if(num.charAt(i)=='?') cnt1++;
+            else sum1+=(num.charAt(i)-'0');
+        }
+        for(int i=half;i<n;i++){
+            if(num.charAt(i)=='?') cnt2++;
+            else sum2+=(num.charAt(i)-'0');
+        }
+        // System.out.println(cnt1+" "+cnt2);
+        int total=cnt1+cnt2; 
+        if(total%2==1){
+            return true;
+        }
+        return 2*(sum1-sum2)!=9*(cnt2-cnt1);
+    }
+}
