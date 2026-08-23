@@ -54,6 +54,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
@@ -364,6 +365,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
