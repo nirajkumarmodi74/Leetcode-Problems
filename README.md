@@ -119,6 +119,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2810-faulty-keyboard](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2810-faulty-keyboard/) | Easy |
@@ -296,6 +297,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
