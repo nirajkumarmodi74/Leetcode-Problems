@@ -172,6 +172,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3536-maximum-product-of-two-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -313,6 +314,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3921-score-validator](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3921-score-validator/) | Easy |
