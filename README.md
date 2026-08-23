@@ -111,6 +111,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
@@ -284,6 +285,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1518-water-bottles](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1518-water-bottles/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
