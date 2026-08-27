@@ -102,6 +102,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0013-roman-to-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -154,6 +155,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0013-roman-to-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
@@ -303,6 +305,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -363,6 +366,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
