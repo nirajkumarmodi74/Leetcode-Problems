@@ -29,6 +29,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
@@ -83,6 +84,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
+| [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -117,6 +119,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0412-fizz-buzz](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
