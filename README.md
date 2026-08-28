@@ -174,6 +174,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0507-perfect-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
