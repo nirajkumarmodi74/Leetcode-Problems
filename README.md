@@ -86,6 +86,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
+| [0771-jewels-and-stones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -124,6 +125,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
