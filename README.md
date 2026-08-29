@@ -167,6 +167,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
@@ -266,6 +267,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
@@ -456,5 +458,6 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
