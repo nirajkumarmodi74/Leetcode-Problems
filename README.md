@@ -34,6 +34,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -331,6 +332,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0412-fizz-buzz](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [1518-water-bottles](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1518-water-bottles/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
@@ -411,6 +413,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Recursion
