@@ -29,6 +29,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
