@@ -126,6 +126,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0443-string-compression](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0520-detect-capital](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0520-detect-capital/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
