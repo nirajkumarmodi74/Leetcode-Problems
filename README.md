@@ -37,6 +37,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0896-monotonic-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1184-distance-between-bus-stops/) | Easy |
@@ -228,6 +229,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0443-string-compression](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Prefix Sum
@@ -247,6 +249,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
