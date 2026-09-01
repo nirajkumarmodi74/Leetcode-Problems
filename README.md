@@ -196,6 +196,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1518-water-bottles](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1518-water-bottles/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
