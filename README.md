@@ -77,6 +77,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3718-smallest-missing-multiple-of-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3921-score-validator](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3921-score-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3726-remove-zeros-in-decimal-representation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
