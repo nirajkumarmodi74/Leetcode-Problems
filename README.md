@@ -50,6 +50,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -435,6 +436,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Recursion
