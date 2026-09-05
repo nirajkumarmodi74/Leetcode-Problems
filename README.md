@@ -80,6 +80,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3875-construct-uniform-parity-array-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3921-score-validator](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3921-score-validator/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -249,6 +250,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
