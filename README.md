@@ -54,6 +54,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -202,6 +203,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1518-water-bottles](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
