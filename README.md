@@ -210,6 +210,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
 | [2739-total-distance-traveled](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2739-total-distance-traveled/) | Easy |
