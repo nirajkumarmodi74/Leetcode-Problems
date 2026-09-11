@@ -461,6 +461,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -517,4 +518,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
