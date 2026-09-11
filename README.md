@@ -74,6 +74,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -114,6 +115,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -410,6 +412,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +463,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
