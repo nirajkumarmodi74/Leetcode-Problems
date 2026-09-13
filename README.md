@@ -64,6 +64,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -217,6 +218,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
