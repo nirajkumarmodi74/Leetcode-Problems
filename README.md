@@ -63,6 +63,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -109,6 +110,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1748-sum-of-unique-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -358,6 +360,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1748-sum-of-unique-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
