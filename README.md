@@ -126,6 +126,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
@@ -452,6 +453,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -530,4 +532,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
