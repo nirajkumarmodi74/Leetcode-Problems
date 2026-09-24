@@ -79,6 +79,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -233,6 +234,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3360-stone-removal-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
