@@ -112,6 +112,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -158,6 +159,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1108-defanging-an-ip-address](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
