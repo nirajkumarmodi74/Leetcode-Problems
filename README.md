@@ -543,4 +543,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
