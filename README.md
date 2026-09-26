@@ -35,6 +35,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0896-monotonic-array/) | Easy |
@@ -153,6 +154,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -263,6 +265,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0392-is-subsequence](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
