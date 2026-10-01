@@ -79,6 +79,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
