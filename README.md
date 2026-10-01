@@ -72,6 +72,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2460-apply-operations-to-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -123,6 +124,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2351-first-letter-to-appear-twice](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2540-minimum-common-value](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -284,6 +286,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -331,6 +334,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2540-minimum-common-value](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
