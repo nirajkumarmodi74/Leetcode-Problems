@@ -71,6 +71,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -237,6 +238,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2582-pass-the-pillow](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2582-pass-the-pillow/) | Easy |
