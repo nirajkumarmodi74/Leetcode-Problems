@@ -231,6 +231,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -433,12 +434,14 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0258-add-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1291-sequential-digits/) | Medium |
+| [2427-number-of-common-factors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
@@ -563,4 +566,12 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0595-big-countries/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
