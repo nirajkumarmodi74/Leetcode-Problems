@@ -28,6 +28,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
@@ -101,6 +102,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
@@ -264,6 +266,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -288,6 +291,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0088-merge-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -311,6 +315,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
