@@ -141,6 +141,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
@@ -343,6 +344,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -578,6 +580,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Database
@@ -592,4 +595,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
