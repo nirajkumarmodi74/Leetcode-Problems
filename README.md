@@ -164,6 +164,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0551-student-attendance-record-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -358,6 +359,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0338-counting-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -476,6 +478,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0011-container-with-most-water](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -503,6 +506,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -589,6 +593,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Database
