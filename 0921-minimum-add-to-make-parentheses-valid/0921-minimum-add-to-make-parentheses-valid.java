@@ -12,7 +12,6 @@ class Solution {
                 st.push(ch);
             }
         }
-        System.out.println(st);
         return st.size();
     }
 }
