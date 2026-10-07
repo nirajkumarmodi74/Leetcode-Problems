@@ -151,6 +151,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0151-reverse-words-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -619,4 +620,9 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
