@@ -515,6 +515,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0856-score-of-parentheses/) | Medium |
@@ -586,14 +587,17 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
