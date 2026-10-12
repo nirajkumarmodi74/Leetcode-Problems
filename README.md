@@ -28,6 +28,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -642,6 +643,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0040-combination-sum-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
