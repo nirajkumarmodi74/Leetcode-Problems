@@ -51,6 +51,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1184-distance-between-bus-stops](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
