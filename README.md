@@ -120,6 +120,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0387-first-unique-character-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0567-permutation-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -172,6 +173,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0520-detect-capital](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0520-detect-capital/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0709-to-lower-case/) | Easy |
@@ -219,6 +221,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Math
@@ -304,6 +307,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0392-is-subsequence](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
