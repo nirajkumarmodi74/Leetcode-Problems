@@ -11,6 +11,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0027-remove-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
@@ -116,6 +117,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0001-two-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
@@ -559,6 +561,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
@@ -663,6 +666,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
@@ -687,5 +691,10 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
