@@ -15,6 +15,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0040-combination-sum-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
@@ -664,6 +665,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0022-generate-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
@@ -682,4 +684,8 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
