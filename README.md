@@ -273,6 +273,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2235-add-two-integers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
