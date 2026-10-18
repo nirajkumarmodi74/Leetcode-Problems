@@ -61,6 +61,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -266,6 +267,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1518-water-bottles](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
@@ -394,6 +396,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -413,6 +416,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -583,6 +587,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -617,10 +622,12 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -631,6 +638,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -697,4 +705,16 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
