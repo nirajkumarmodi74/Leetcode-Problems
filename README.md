@@ -230,6 +230,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3582-generate-tag-for-video-caption](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3921-score-validator](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
