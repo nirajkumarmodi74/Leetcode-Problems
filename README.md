@@ -113,6 +113,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3903-smallest-stable-index-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3921-score-validator](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3921-score-validator/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
