@@ -53,6 +53,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -577,6 +578,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -643,6 +645,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -697,6 +700,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -719,6 +723,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
