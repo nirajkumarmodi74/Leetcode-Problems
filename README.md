@@ -102,6 +102,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -582,6 +583,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1572-matrix-diagonal-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -647,6 +649,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -701,6 +704,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,6 +729,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
