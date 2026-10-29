@@ -48,6 +48,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -396,6 +397,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0367-valid-perfect-square](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
