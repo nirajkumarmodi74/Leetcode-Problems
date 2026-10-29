@@ -18,6 +18,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
@@ -127,6 +128,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -590,6 +592,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
