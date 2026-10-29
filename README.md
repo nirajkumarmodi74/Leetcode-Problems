@@ -208,6 +208,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1108-defanging-an-ip-address](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -245,6 +246,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
