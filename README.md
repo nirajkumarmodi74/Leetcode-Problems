@@ -35,6 +35,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0216-combination-sum-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -134,6 +135,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0202-happy-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -364,6 +366,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -461,6 +464,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -640,6 +644,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
