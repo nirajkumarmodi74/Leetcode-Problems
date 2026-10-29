@@ -114,6 +114,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3718-smallest-missing-multiple-of-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -243,6 +244,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3798-largest-even-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3798-largest-even-number/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3921-score-validator](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
@@ -442,6 +444,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,6 +577,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -666,6 +670,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -674,6 +679,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1254-number-of-closed-islands](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -734,11 +740,13 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
