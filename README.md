@@ -617,6 +617,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -693,6 +694,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
