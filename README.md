@@ -106,6 +106,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -170,6 +171,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3120-count-the-number-of-special-characters-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -258,6 +260,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +316,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3345-smallest-divisible-digit-product-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -428,6 +432,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -457,6 +462,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
