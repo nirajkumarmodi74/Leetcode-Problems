@@ -62,6 +62,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -355,6 +356,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0844-backspace-string-compare](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -386,6 +388,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -412,6 +415,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
