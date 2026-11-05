@@ -455,6 +455,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -583,6 +584,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0067-add-binary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0090-subsets-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0338-counting-bits/) | Easy |
