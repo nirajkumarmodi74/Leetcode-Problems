@@ -76,6 +76,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -471,6 +472,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Merge Sort
