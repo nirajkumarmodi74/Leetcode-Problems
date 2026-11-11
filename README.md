@@ -332,6 +332,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3726-remove-zeros-in-decimal-representation](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -585,6 +586,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
