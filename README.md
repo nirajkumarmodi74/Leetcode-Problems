@@ -110,6 +110,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
