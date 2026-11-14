@@ -111,6 +111,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -268,6 +269,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -376,6 +378,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
