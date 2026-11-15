@@ -68,6 +68,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1528-shuffle-string/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -301,6 +302,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1518-water-bottles](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -376,6 +378,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -446,6 +449,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [0678-valid-parenthesis-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
