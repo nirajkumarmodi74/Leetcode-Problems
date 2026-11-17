@@ -246,6 +246,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2744-find-maximum-number-of-string-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2810-faulty-keyboard](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2942-find-words-containing-character](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
@@ -373,6 +374,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -452,6 +454,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Brainteaser
