@@ -64,6 +64,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -302,6 +303,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1518-water-bottles](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -382,6 +384,7 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3028-ant-on-the-boundary](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -843,4 +846,12 @@ Daily solutions for LeetCode problems to track consistency, improve problem-solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirajkumarmodi74/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
