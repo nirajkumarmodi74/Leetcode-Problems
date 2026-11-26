@@ -7,7 +7,6 @@ class Solution {
             max--;
             al = !al;
         }
-        // System.out.println(count);
         return !al;
     }
 }
